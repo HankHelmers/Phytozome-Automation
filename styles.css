@@ -1,0 +1,22 @@
+
+.row {
+    border-radius: 5em;
+
+    color: white;
+
+    margin: 4rem;
+    padding: 2rem;
+}
+
+.row:hover {
+    box-shadow: 2em 2em;
+
+    color: black;
+}
+
+a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
