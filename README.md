@@ -1,6 +1,8 @@
 # Phytozome Automation 
 Audience: For anyone using Phytozome regularly to provide additional support for specific tasks. 
+
 Author: Hank Helmers
+
 As a part of '24 REU in Computational Biology @ UGA under Gurjot Singh Sidhu and Dr. Katrien Devos 
 
 ## Available tasks
