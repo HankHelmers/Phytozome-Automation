@@ -1,18 +1,22 @@
 
 .row {
     border-radius: 5em;
-
     color: white;
+
+    box-shadow: black 2em 2em;
 
     margin: 4rem;
     padding: 2rem;
 }
 
-.row:hover {
-    box-shadow: 2em 2em;
-
-    color: black;
+p {
+    font-size: 1rem;
 }
+
+/* .row:hover {
+    box-shadow: 4em 3em;
+    color: black;
+} */
 
 a.fill-div {
     display: block;
